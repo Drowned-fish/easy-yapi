@@ -1,12 +1,12 @@
-import { replaceApi, replaceFile, add  } from ".";
+import { replaceApi, replaceFile, add  } from "./index";
 import * as path from "node:path";
 import * as fs from "node:fs";
 import * as vscode from "vscode";
 import dayjs from "dayjs";
 import { getYapiJsonPath } from "@utils/get";
 import { History } from "@type";
-import { createWebviewPanel } from "view";
-import { SideBarEntry } from "view/history";
+import { createWebviewPanel } from "@view/index";
+import { SideBarEntry } from "@view/history";
 
 const history: History = {};
 

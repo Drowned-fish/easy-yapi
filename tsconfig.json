@@ -17,6 +17,7 @@
 			"@utils/*": ["utils/*"],
 			"@type": ["type"],
 			"@commands/*": ["commands/*"],
+			"@view/*": ["view/*"],
 		},
 	},
 

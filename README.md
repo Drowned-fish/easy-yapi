@@ -1,3 +1,7 @@
+# 注意
+
+这个插件无法直接使用，只供学习使用。
+
 # Easy Yapi
 
 ![Image description](https://github.com/Drowned-fish/markdown-images/blob/master/kmstd-ub9vg.gif?raw=true)

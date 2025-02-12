@@ -30,6 +30,7 @@ const extensionConfig = {
       '@utils': path.resolve(__dirname, 'src/utils'),
       '@type': path.resolve(__dirname,'src/type'),
       '@commands': path.resolve(__dirname,'src/commands'),
+      '@view': path.resolve(__dirname,'src/view'),
     }
   },
   module: {
